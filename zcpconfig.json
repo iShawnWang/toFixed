@@ -1,0 +1,20 @@
+{
+    "config": {
+        "dependencies": {},
+        "env": {
+            "compiler": "none",
+            "tester": "none"
+        },
+        "componentsDirectory": [
+            {
+                "name": "toFixed",
+                "path": "./toFixed"
+            }
+        ],
+        "organization": "paas",
+        "collection": "common",
+        "language": "react",
+        "alias": {}
+    },
+    "zcpmap": {}
+}
