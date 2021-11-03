@@ -1,0 +1,30 @@
+{
+  "name": "tofixed",
+  "version": "1.0.0",
+  "description": "curried tofixed",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iShawnWang/toFixed.git"
+  },
+  "keywords": [
+    "tofixed"
+  ],
+  "author": "iShawnWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iShawnWang/toFixed/issues"
+  },
+  "homepage": "https://github.com/iShawnWang/toFixed#readme",
+  "dependencies": {
+    "lodash.curry": "^4.1.1",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/lodash.curry": "^4.1.6"
+  }
+}
